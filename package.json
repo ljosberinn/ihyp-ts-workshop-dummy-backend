@@ -1,0 +1,23 @@
+{
+  "name": "ihyp-ts-workshop-dummy-backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.3",
+    "next-connect": "^0.9.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.14",
+    "@types/react": "^17.0.0",
+    "eslint": "^7.15.0",
+    "eslint-config-galex": "^2.9.4",
+    "typescript": "^4.1.3"
+  }
+}
